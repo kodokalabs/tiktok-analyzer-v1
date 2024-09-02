@@ -50,4 +50,4 @@ python run.py --hashtag ukraine --user test123 --max-videos 10 --transcribe --in
 <br />
 <br />  
 
-[![kōdōkalabs]([https://kodokalabs.com/wp-content/uploads/2024/06/2024-kodokalabs-logo-color-bg-trans-900-white-font.png])](https://kodokalabs.com)
+[![kōdōkalabs](https://kodokalabs.com/wp-content/uploads/2024/06/2024-kodokalabs-logo-color-bg-trans-900-white-font.png)](https://kodokalabs.com)
